@@ -11,7 +11,7 @@ apiURL          = 'http://localhost'
 
 host            = 'localhost'
 port            = 3306
-dbuser          = 'root'
+dbUser          = 'root'
 dbPass          = ''
 dbName          = 'db_name'
 
